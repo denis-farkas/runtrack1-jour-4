@@ -1,0 +1,224 @@
+.btn {
+    font-family: Oswald;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.428571429;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 40px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+a.btn:hover {
+    
+background-color: #000;
+}
+
+.logo {
+    width:60%;
+    height:auto;
+}
+
+nav {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    
+}
+
+nav li {
+    float: left;
+   
+}
+
+nav li a {
+    display: block;
+    color: rgb(85, 77, 77);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav li a:hover {
+    color: grey;
+}
+
+section { 
+    margin: 0;
+    padding: 10px;
+}
+
+article {
+    max-width: 50%;
+}
+
+
+.blue {
+    background-color: rgba(114, 206, 230, 0.829)
+}
+
+.banner {
+    min-width: 100%;
+}
+
+.section-row-grey {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+    background-color: rgb(224, 204, 204);
+}
+
+.section-row-blue {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+    background-color: #4e83c0;
+}
+
+.section-row {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+    
+}
+
+.grey {
+   background-color: rgb(224, 204, 204);
+}
+
+.blue {
+    background-color: #4781c4;
+}
+
+
+
+.card1 {
+    width: 25%;
+    height: 450px;
+    padding: 20px;
+    margin: 10px;
+    text-align: justify;
+    align-items: center;
+    background-color: white;
+}
+
+.card2 {
+    width: 30%;
+   height: 350px;
+   padding: 20px;
+   margin: 10px;
+   text-align: justify;
+   align-items: center;
+   background-color: white;
+}
+
+.card3 {
+    width:45%;
+    height: 450px;
+    padding: 20px;
+    margin: 10px;
+    text-align: justify;
+    align-items: center;
+    background-color: white;
+}
+
+.card4 {
+    width: 15%;
+    height: auto;
+    padding: 20px;
+    margin: 10px;
+    text-align: justify;
+    align-items: center;
+    background-color: white;
+}
+
+.card5 {
+    width: 30%;
+    height: 450px;
+    padding: 20px;
+    margin: 10px;
+    text-align: justify;
+    align-items: center;
+    background-color: white;
+}
+
+h2 {
+    color:rgb(65, 150, 110);
+}
+
+.titre {
+    text-align: center;
+    font-weight: 100;
+
+}
+
+.text {
+    text-align: center;
+}
+
+.img {
+    width: 100%;
+    text-align: center;
+    padding: 50px;
+}
+
+.img-qui-sommes-nous {
+    width: 100px;
+    padding: 10px;
+
+}
+
+.video {
+    width: 49%;
+    padding-left: 50px;
+    text-align: left;
+    padding-right: 50px;
+}
+
+.allvideo {
+    width: 100%;
+    display: inline-flex;
+
+}
+
+.video2 {
+    width: 100%;
+    text-align: center;
+
+}
+
+.img-enbas-qui-sommes-nous {
+
+    width: 100px;
+    padding: 20px;
+    text-align: center;
+}
+
+.img-enbas-parent {
+    text-align: center;
+}
+
+
+
+
